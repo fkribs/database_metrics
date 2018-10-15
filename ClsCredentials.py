@@ -1,5 +1,5 @@
 class ClsCredentials(object):
-    CONNECTSTRING="Driver={SQL Server};Server=LNDAPPSRV1\SQLEXPRESS;Database=Gen7NodeLog;Trusted_Connection=Yes;"
+    CONNECTSTRING="Driver={SQL Server};Server=SERVERGOESHERE;Database=DATABASEGOESHERE;Trusted_Connection=Yes;"
 
 
 
